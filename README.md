@@ -1,4 +1,4 @@
-# Multi-modal Local Non-verbal Emotion Recognition in Dyadic scenarios and Speaker Segmentation
+# Multi-modal Local Non-verbal Emotion Recognition in Dyadic Scenarios and Speaker Segmentation
 
 This folder contains the repository of the master thesis of **Pablo Lázaro Herrasti** in relation with the **Non-acted Multi-view Audio-Visual Dyadic Interactions Project**.
 
